@@ -1,0 +1,5 @@
+configuration.json
+local/
+cpanm
+*.json
+generate_bmo_data.pl
